@@ -2,7 +2,8 @@
 
 ## Unix Command Line
 - ### Shell
-    Shell adalah processor makro atau penerjemah command language yang menerjemahkan perintah, yang ditulis oleh pengguna di terminal, ke dalam tindakan sistem yang dijalankan, yang juga dapat secara otomatis dijalankan dalam program yang disebut Shell Scripting. </br></br>
+    Shell adalah processor makro atau penerjemah command language yang menerjemahkan perintah, yang ditulis oleh pengguna di terminal, ke dalam tindakan sistem yang dijalankan, yang juga dapat secara otomatis dijalankan dalam program yang disebut Shell Scripting.
+    halo </br></br>
 - ### FileSystem 
     Mengatur bagaimana data disimpan dalam suatu sistem. Sistem operasi Windows & Unix-like menyusun file dan direktori menggunakan struktur yang bentuknya mirip tree </br></br>
 - ### Command Line Interface
@@ -57,7 +58,7 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
         <img src="./new-repo.jpg" alt=""></br>
     5. lalu ketikkan "git remote add origin https://github.com/(username)/(repository yang dibuat).git" Untuk me-remote ke github <br>
         <img src="./git-remotee.jpg" alt=""></br>
-        
+
 - ### Melakukan Git Commit
     1. Buat sebuah file <br>
         <img src="./buat-file.jpg" alt=""></br>
