@@ -6,7 +6,7 @@
 - ### FileSystem 
     Mengatur bagaimana data disimpan dalam suatu sistem. Sistem operasi Windows & Unix-like menyusun file dan direktori menggunakan struktur yang bentuknya mirip tree </br></br>
 - ### Command Line Interface
-    Sebuah antarmuka pengguna berbasis teks ( UI ) yang digunakan untuk menjalankan program, mengelola file komputer, dan berinteraksi dengan komputer. </br>
+    Sebuah antarmuka pengguna berbasis teks (UI) yang digunakan untuk menjalankan program, mengelola file komputer, dan berinteraksi dengan komputer. </br>
     Cara mengakses CLI menggunakan GitBash 
     1. Download dan Instal GitBash
     2. buat folder dalam local computer <br>
@@ -57,7 +57,7 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
         <img src="./new-repo.jpg" alt=""></br>
     5. lalu ketikkan "git remote add origin https://github.com/(username)/(repository yang dibuat).git" Untuk me-remote ke github <br>
         <img src="./git-remotee.jpg" alt=""></br>
-    
+        
 - ### Melakukan Git Commit
     1. Buat sebuah file <br>
         <img src="./buat-file.jpg" alt=""></br>
@@ -237,7 +237,35 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
 
 - ### Styling CSS 
     ```html
-
+        <!DOCTYPE html>
+        <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+            <style>
+                h1{
+                    color : grey;
+                    background-color: bisque;
+                    font-family: 'Courier New', Courier, monospace;
+                }
+                h2{
+                    background-color: black;
+                    color: white;
+                }
+                img {
+                    width: 20%;
+                    border-radius: 5px;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>Selamat datang</h1>
+            <h2>Selamat berbelanja ya!</h2>
+            <img src="loid-forger.jpg" alt="">
+        </body>
+        </html>
     ```
                 
 - ### Flexbox 
