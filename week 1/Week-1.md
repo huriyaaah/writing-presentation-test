@@ -234,6 +234,11 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
     - berdasarkan kode di atas h1 adalah selector points yang ingin diubah
     - color : red;" adalah declaration
     - setiap declaration terdapat nama properti dan nilainya "color" sebagai properti "red" sebagai nilainya.
+
+- ### Styling CSS 
+    ```html
+
+    ```
                 
 - ### Flexbox 
      merupakan mode layout yang ada di CSS3 dan digunakan untuk mengatur elemen di suatu halaman web.Bertujuan untuk memberikan container kemampuan untuk mengatur panjang, lebar, dan posisi item-item yang berada di dalamnya agar memaksimalkan ruang yang ada. Flexbox memiliki 1 parent/container dan bisa beberapa child/item.
@@ -241,24 +246,24 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
      - #### Property Container pada Flexbox
         1. Flex Direction <br>
         properti flex-direction digunakan untuk mengatur letak item child ada 4 value flex-direction, yaitu:
-        - row (default): secara default letak item child membentuk sebuah baris dari kiri ke kanan.
+        - row (default): secara default letak item child membentuk sebuah baris dari kiri ke kanan. <br>
             <img src="row.jpg" alt=""><br>
-        - row-reverse: letak item child membentuk sebuah baris dari kanan ke kiri
+        - row-reverse: letak item child membentuk sebuah baris dari kanan ke kiri <br>
             <img src="row-reverse.jpg" alt=""><br>
-        - column: letak item child membentuk sebuah baris dari atas ke bawah
+        - column: letak item child membentuk sebuah baris dari atas ke bawah <br>
             <img src="column.jpg" alt=""><br>
-        - column-reverse: letak item child membentuk sebuah baris dari bawah ke atas
+        - column-reverse: letak item child membentuk sebuah baris dari bawah ke atas <br>
             <img src="column-reverse.jpg" alt=""><br>
         2. Flex Wrap <br>
         flex secara default akan membuat tata letak item children dalam 1 line saja. flex akan menyesuaikan space yang ada. Namun jika ingin membatasi jumlah item children dalam 1 line lalu item children yang lain akan pindah ke posisi line yang baru, maka kita bisa menggunakan flex-wrap. 
-        - no-wrap (default): secara default, flex tidak menggunakan flex-wrap
+        - no-wrap (default): secara default, flex tidak menggunakan flex-wrap <br>
             <img src="nowrap.jpg" alt=""><br>
-        - wrap: flex item akan memiliki beberapa line dari atas ke bawah jika space dalam 1 line sudah full width.
+        - wrap: flex item akan memiliki beberapa line dari atas ke bawah jika space dalam 1 line sudah full width. <br>
             <img src="wrap.jpg" alt=""><br>
-        - wrap-reverse: kebalikan dari wrap yaitu lex item akan memiliki beberapa line dari bawah ke atas jika space dalam 1 line sudah full width
+        - wrap-reverse: kebalikan dari wrap yaitu lex item akan memiliki beberapa line dari bawah ke atas jika space dalam 1 line sudah full width <br>
             <img src="wrap-reverse.jpg" alt=""><br>
         3. Flex Flow
-        properti flex-flow digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap bersamaan.
+        properti flex-flow digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap bersamaan. <br>
         - row nowrap <br>
             <img src="row-nowrap.jpg" alt=""><br>
         - column wrap <br>
