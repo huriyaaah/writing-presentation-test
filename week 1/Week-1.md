@@ -246,32 +246,32 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
      - #### Property Container pada Flexbox
         1. Flex Direction <br>
         properti flex-direction digunakan untuk mengatur letak item child ada 4 value flex-direction, yaitu:
-        - row (default): secara default letak item child membentuk sebuah baris dari kiri ke kanan. <br>
-            <img src="row.jpg" alt=""><br>
-        - row-reverse: letak item child membentuk sebuah baris dari kanan ke kiri <br>
-            <img src="row-reverse.jpg" alt=""><br>
-        - column: letak item child membentuk sebuah baris dari atas ke bawah <br>
-            <img src="column.jpg" alt=""><br>
-        - column-reverse: letak item child membentuk sebuah baris dari bawah ke atas <br>
-            <img src="column-reverse.jpg" alt=""><br>
+            - row (default): secara default letak item child membentuk sebuah baris dari kiri ke kanan. <br>
+                <img src="row.jpg" alt=""><br>
+            - row-reverse: letak item child membentuk sebuah baris dari kanan ke kiri <br>
+                <img src="row-reverse.jpg" alt=""><br>
+            - column: letak item child membentuk sebuah baris dari atas ke bawah <br>
+                <img src="column.jpg" alt=""><br>
+            - column-reverse: letak item child membentuk sebuah baris dari bawah ke atas <br>
+                <img src="column-reverse.jpg" alt=""><br>
         2. Flex Wrap <br>
         flex secara default akan membuat tata letak item children dalam 1 line saja. flex akan menyesuaikan space yang ada. Namun jika ingin membatasi jumlah item children dalam 1 line lalu item children yang lain akan pindah ke posisi line yang baru, maka kita bisa menggunakan flex-wrap. 
-        - no-wrap (default): secara default, flex tidak menggunakan flex-wrap <br>
-            <img src="nowrap.jpg" alt=""><br>
-        - wrap: flex item akan memiliki beberapa line dari atas ke bawah jika space dalam 1 line sudah full width. <br>
-            <img src="wrap.jpg" alt=""><br>
-        - wrap-reverse: kebalikan dari wrap yaitu lex item akan memiliki beberapa line dari bawah ke atas jika space dalam 1 line sudah full width <br>
-            <img src="wrap-reverse.jpg" alt=""><br>
+            - no-wrap (default): secara default, flex tidak menggunakan flex-wrap <br>
+                <img src="nowrap.jpg" alt=""><br>
+            - wrap: flex item akan memiliki beberapa line dari atas ke bawah jika space dalam 1 line sudah full width. <br>
+                <img src="wrap.jpg" alt=""><br>
+            - wrap-reverse: kebalikan dari wrap yaitu lex item akan memiliki beberapa line dari bawah ke atas jika space dalam 1 line sudah full width <br>
+                <img src="wrap-reverse.jpg" alt=""><br>
         3. Flex Flow
         properti flex-flow digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap bersamaan. <br>
-        - row nowrap <br>
-            <img src="row-nowrap.jpg" alt=""><br>
-        - column wrap <br>
-            <img src="column-wrap.jpg" alt=""><br>
-        - column reverse <br>
-            <img src="column-reverse.jpg" alt=""><br>
-        - row-reverse wrap-reverse <br>
-            <img src="rowrev-wrap-rev.jpg" alt=""><br>
+            - row nowrap <br>
+                <img src="row-nowrap.jpg" alt=""><br>
+            - column wrap <br>
+                <img src="column-wrap.jpg" alt=""><br>
+            - column reverse <br>
+                <img src="column-reverse.jpg" alt=""><br>
+            - row-reverse wrap-reverse <br>
+                <img src="rowrev-wrap-rev.jpg" alt=""><br>
 <hr></br>
 
 ## Algoritma dan Struktur Data 
