@@ -9,31 +9,31 @@
     Sebuah antarmuka pengguna berbasis teks ( UI ) yang digunakan untuk menjalankan program, mengelola file komputer, dan berinteraksi dengan komputer. </br>
     Cara mengakses CLI menggunakan GitBash 
     1. Download dan Instal GitBash
-    2. buat folder dalam local computer 
+    2. buat folder dalam local computer <br>
          <img src="./file-local.JPG" alt=""> </br>
-    3. Klik kanan, pilih git bash here
+    3. Klik kanan, pilih git bash here<br>
         <img src="./git-bash-here.JPG" alt=""> </br>
-    4. Siap digunakan 
+    4. Siap digunakan <br>
         <img src="./git-bash.JPG" alt=""> </br></br>
 - ### Perintah dalam CLI 
     Berikut merupakan beberapa perintah dan fungsinya dalam CLI 
-    1. cd -> berfungsi untuk pindah folder 
+    1. cd -> berfungsi untuk pindah folder <br>
         <img src="./cd.JPG" alt=""> </br>
-    2. pwd -> berfungsi untuk melihat current working directory 
+    2. pwd -> berfungsi untuk melihat current working directory <br>
         <img src="./pwd.JPG" alt=""> </br>
-    3. ls -> berfungsi untuk melihat isi folder 
+    3. ls -> berfungsi untuk melihat isi folder <br>
         <img src="./ls.JPG" alt=""> </br>
-    4. touch -> berfungsi untuk membuat file baru 
+    4. touch -> berfungsi untuk membuat file baru <br>
         <img src="./touch.JPG" alt=""> </br>
-    5. mkdir -> berfungsi untuk membuat directory baru 
+    5. mkdir -> berfungsi untuk membuat directory baru <br>
         <img src="./mkdir.JPG" alt=""> </br>
-    6. rm -> berfungsi untuk menghapus file 
+    6. rm -> berfungsi untuk menghapus file <br>
         <img src="./rm.JPG" alt=""> </br>
-    7. rmdir -> berfungsi mengahpus directory 
+    7. rmdir -> berfungsi mengahpus directory <br>
         <img src="./rmdir.JPG" alt=""> </br>
-    8. mv -> berfungsi untuk memindahkan file 
+    8. mv -> berfungsi untuk memindahkan file <br>
         <img src="./mv.JPG" alt=""> </br>
-        mv juga dapat berfungsi untuk rename sebuah file 
+        mv juga dapat berfungsi untuk rename sebuah file <br>
         <img src="./mv-rename.JPG" alt=""> </br>
 <hr></br>
 
@@ -47,39 +47,39 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
         layanan cloud yang berguna untuk menyimpan dan mengelola sebuah project yang dinamakan repository (repo git). Cara kerja pada GitHub harus terkoneksi pada internet sehingga tidak perlu meng-install sebuah software ke dalam perangkat keras. Host melalui layanan cloud, Berfokus pada source code hosting terpusat, Akses secara online, dan Menggunakan user management
     
 - ### Membuat Repository Git dari folder local komputer 
-    1. Buat folder di local komputer 
+    1. Buat folder di local komputer <br>
         <img src="./folder-baru.jpg" alt=""></br>
-    2. masuk ke folder tersebut, kemudian klik kanan pilih "Git Bash Here"
+    2. masuk ke folder tersebut, kemudian klik kanan pilih "Git Bash Here" <br>
         <img src="./folder-git-bash.jpg" alt=""></br>
-    3. ketikan git init. Sekarang folder yang dibuat tadi sudahh menjadi repository
+    3. ketikan git init. Sekarang folder yang dibuat tadi sudahh menjadi repository <br>
         <img src="./git-init.jpg" alt=""></br>
-    4. masuk ke website git lalu klik "new repository"
+    4. masuk ke website git lalu klik "new repository" <br>
         <img src="./new-repo.jpg" alt=""></br>
-    5. lalu ketikkan "git remote add origin https://github.com/(username)/(repository yang dibuat).git" Untuk me-remote ke github
+    5. lalu ketikkan "git remote add origin https://github.com/(username)/(repository yang dibuat).git" Untuk me-remote ke github <br>
         <img src="./git-remotee.jpg" alt=""></br>
     
 - ### Melakukan Git Commit
-    1. Buat sebuah file 
+    1. Buat sebuah file <br>
         <img src="./buat-file.jpg" alt=""></br>
-    2. Ketikkan "git add ." untuk melacak perubahan
+    2. Ketikkan "git add ." untuk melacak perubahan <br>
         <img src="./git-add.jpg" alt=""></br>
-    3. Kemudian baru ketikkan "git commit -m "(pesan perubahan)" untuk melakukan commit
+    3. Kemudian baru ketikkan "git commit -m "(pesan perubahan)" untuk melakukan commit <br>
         <img src="./git-commit.jpg" alt=""></br>
 
 - ### Publish file ke GitHub 
-    1. Ketikkan "git push -u origin (branch yang dipakai)"
+    1. Ketikkan "git push -u origin (branch yang dipakai)" <br>
         <img src="git-remote.jpg" alt="">
-    2. File sudah terpublish ke GitHub
+    2. File sudah terpublish ke GitHub <br>
         <img src="dah-publish.jpg" alt="">
 
 - ### Clone GitHub Repository kedalam lokal komputer
     1. buka repository yang ikin di cloning, kemudian klik code dan salin kode tersebut <br>
         <img src="folder-local.jpg" alt=""></br>
-    2. pilih penyimpanan lokal pada komputer, kemudian klik kanan dan pilih "Git Bash Here"
+    2. pilih penyimpanan lokal pada komputer, kemudian klik kanan dan pilih "Git Bash Here" <br>
         <img src="git-bash-clone.jpg" alt=""><br>
-    3. Ketikkan "git clone (link yang tadi dicopy)"
+    3. Ketikkan "git clone (link yang tadi dicopy)"<br>
         <img src="git-clone.jpg" alt=""><br>
-    4. file yang ada di GitHub sudah selasai di cloning ke lokal komputer
+    4. file yang ada di GitHub sudah selasai di cloning ke lokal komputer<br>
         <img src="dah-clone.jpg" alt=""><br>
 
 <hr><br>
@@ -168,7 +168,8 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
                 <li>Mie Goreng</li>
                 <li>Kwetiau</li>
                 <li>Nasi Bebek</li>
-            </ol> </br></br>
+            </ol> 
+            </br></br>
 
 - ### Semantic HTML 
     Merupakan sebuah tag HTML yang nama tagnya mengandung arti dari konten tag HTML tersebut. Semantic HTML membantu developer agar lebih “Easy to Read and Understand”. Semantic HTML berfungsi untuk meningkatkan Accessibility, meningkatkan SEO, dan memudahkan mainatain.
@@ -258,13 +259,13 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
             <img src="wrap-reverse.jpg"/><br>
         3. Flex Flow
         properti flex-flow digunakan sebagai shortcut untuk set up flex-direction dan flex-wrap bersamaan.
-        - row nowrap
+        - row nowrap <br>
             <img src="row-nowrap.jpg"/><br>
-        - column wrap
+        - column wrap <br>
             <img src="column-wrap.jpg"/><br>
-        - column reverse
+        - column reverse <br>
             <img src="column-reverse.jpg"/><br>
-        - row-reverse wrap-reverse
+        - row-reverse wrap-reverse <br>
             <img src="rowrev-wrap-rev.jpg"/><br>
 <hr></br>
 
@@ -290,7 +291,11 @@ Git & Github sangat penting untuk Programmer. Merupakan sebuah alat (tools) yang
 
     Berikut merupakan contoh penerapan algoritma diatas dalam JavaScript 
     ```JavaScript
-        console.log() // output : 
+        let angka_1, angka_2
+        angka_1 = 3
+        angka_2 = 5
+        sum = angka_1 + angka_2 
+        console.log(sum) //output : 8
     ```
 
 
